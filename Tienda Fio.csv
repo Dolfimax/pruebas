@@ -1,0 +1,381 @@
+ID Cliente,Nombre,Edad,Genero,Tienda,Tipo de Pago,Calificacion,Valor de Venta
+9980,John Castaneda,34,Femenino,Sucursal Centro,credito,3,369.97
+1465,Eric Hines,45,Femenino,Sucursal Centro,debito,10,345.42
+4967,Caleb Jennings,59,Femenino,En Linea,debito,1,309.47
+9556,Kristi Williams,52,No binario,En Linea,debito,1,328.96
+3213,Lauren Stone,25,No binario,En Linea,credito,5,295.54
+8179,Robert Thomas,51,No binario,En Linea,credito,4,447.24
+9418,Brian Wright,76,Femenino,En Linea,debito,6,95.43
+3110,Caitlin Turner,63,No binario,Sucursal Centro,credito,5,278.32
+6872,Barbara Fuentes,61,No binario,En Linea,credito,8,300.71
+7445,Blake Winters,73,Femenino,En Linea,credito,1,403.17
+4563,Eduardo Harrington,26,Femenino,En Linea,debito,4,107.32
+7257,Mr. Justin Vasquez,65,Femenino,Sucursal Centro,debito,9,420.36
+5618,Savannah Ballard,46,No binario,En Linea,credito,9,245.26
+2712,Erica Thompson,80,Masculino,En Linea,credito,2,523.16
+1144,Jeremy Leon,53,Femenino,Sucursal Centro,efectivo,9,193.41
+2237,Mary Freeman,21,Femenino,En Linea,credito,6,245.41
+2037,Phillip Oconnell,78,Masculino,Sucursal Centro,efectivo,5,657.17
+4109,Robert Acosta,41,Masculino,Sucursal Centro,efectivo,4,154.52
+7308,Dana Kelly,56,Femenino,En Linea,debito,6,298.86
+6674,Craig Cox,33,No binario,En Linea,debito,10,84.85
+6904,Evelyn Wang,43,Femenino,En Linea,credito,9,611.97
+9906,Miss Kristine Patterson MD,49,No binario,En Linea,debito,1,164.45
+4552,Sandra Nichols,38,Masculino,Sucursal Centro,efectivo,7,288.7
+6811,Rebecca Robles,72,No binario,En Linea,credito,7,315.37
+1588,Deborah Collins,36,No binario,Sucursal Centro,debito,8,159.1
+1809,Michael Golden,62,Masculino,Sucursal Centro,debito,2,463.35
+6702,Anne Murillo,25,No binario,En Linea,debito,7,76.75
+8335,Danielle Taylor,74,Femenino,En Linea,credito,10,110.83
+2318,Emily Adams,58,No binario,Sucursal Centro,credito,7,184.16
+6985,Susan Cooper,31,No binario,En Linea,credito,9,260.17
+4516,Rebecca Frey,52,Masculino,En Linea,debito,7,632.86
+7585,Chelsey Bridges,73,Femenino,Sucursal Centro,efectivo,1,406.13
+9607,Brian Cross,55,Masculino,En Linea,debito,9,318.25
+9142,Courtney Gonzalez,26,Femenino,En Linea,credito,2,413.64
+3448,Tracy Shaw,51,No binario,Sucursal Centro,credito,3,355.69
+2455,Michael Hicks,42,Masculino,En Linea,credito,7,445.44
+4460,Randy Rodriguez,71,Masculino,Sucursal Centro,efectivo,2,137.26
+6113,Kristi Anderson,37,Femenino,En Linea,debito,7,467.76
+4219,Jennifer Boyd,75,Masculino,En Linea,debito,3,331.59
+3124,Jennifer Mann,54,No binario,Sucursal Centro,credito,4,418.54
+2958,David Montgomery,36,Masculino,Sucursal Centro,credito,10,362.31
+8224,Andrew Graham,70,Femenino,En Linea,debito,1,388.24
+9657,Elizabeth Mendez DDS,67,Femenino,Sucursal Centro,efectivo,6,143.99
+1396,Bonnie Morris,69,Masculino,Sucursal Centro,credito,1,261.1
+2249,Chris Taylor,36,Masculino,Sucursal Centro,credito,2,377.06
+1111,Emily Walker,67,No binario,En Linea,debito,10,223.8
+1894,Isabel Meadows,35,Femenino,En Linea,debito,3,176.74
+7963,Laurie Davis,66,Masculino,En Linea,credito,9,508.13
+2665,Mary Lee,22,No binario,En Linea,credito,10,370.45
+9336,Madison Stanley,61,Femenino,Sucursal Centro,debito,8,375.78
+3917,Elizabeth Harmon,51,Femenino,Sucursal Centro,credito,4,503.41
+5386,Joshua Mcdaniel,42,Femenino,En Linea,debito,7,61.26
+2439,Catherine Ramos,39,No binario,Sucursal Centro,debito,7,371.85
+5049,Eric Adams,30,Femenino,Sucursal Centro,debito,7,339.34
+1888,Hayden Martin,28,No binario,En Linea,debito,10,260.22
+3423,Christopher Cooper,70,No binario,Sucursal Centro,debito,9,631.58
+2516,Lauren Rodriguez,21,Femenino,Sucursal Centro,debito,4,323.11
+9726,Heidi Hernandez,75,Masculino,Sucursal Centro,credito,1,400.73
+7934,Shawn Lee,68,No binario,En Linea,credito,9,724.43
+3443,Curtis Mcdonald,64,Masculino,En Linea,debito,3,294.71
+2887,Samantha Jackson,72,Masculino,Sucursal Centro,debito,9,442.83
+5876,Joseph Underwood,19,Masculino,En Linea,debito,9,412.82
+7790,Gregory Cox,80,Femenino,Sucursal Centro,efectivo,10,822.3
+5915,James Washington,57,Masculino,Sucursal Centro,efectivo,10,208.46
+2696,Scott Lawson,58,Femenino,En Linea,debito,10,370.59
+1126,David Curtis,47,Masculino,Sucursal Centro,credito,8,84.19
+7465,Elizabeth Mcdonald,74,No binario,Sucursal Centro,credito,10,659.62
+4336,Kevin Davis,41,Femenino,En Linea,debito,7,367.69
+4777,Renee Fox,38,Masculino,En Linea,debito,1,122.61
+5908,Wendy Chavez,69,No binario,Sucursal Centro,efectivo,6,85.73
+8827,Amber Allen,29,No binario,Sucursal Centro,efectivo,6,121.62
+8209,Benjamin Smith,41,No binario,Sucursal Centro,efectivo,2,156.39
+6911,Savannah Hardin,33,Femenino,En Linea,debito,4,308.71
+1862,Jason Key,22,Masculino,En Linea,credito,2,236.66
+2871,Tyler Hanson,50,Masculino,En Linea,credito,3,502.21
+7270,Victoria Melton,59,No binario,En Linea,credito,9,332.46
+4952,Stephanie Mcdonald,73,Masculino,En Linea,credito,4,454.57
+9907,James Donaldson,31,No binario,En Linea,credito,9,487.27
+7458,Hannah Smith,65,Masculino,Sucursal Centro,credito,6,687.61
+9271,Beth Moore,59,Masculino,Sucursal Centro,credito,3,203.77
+7259,Rebekah Whitney,70,No binario,Sucursal Centro,credito,2,64.16
+1600,Matthew Reyes,32,Masculino,Sucursal Centro,credito,1,74.07
+7793,Joshua Shepherd,31,No binario,En Linea,credito,6,488.96
+1998,Robert Williams,57,No binario,Sucursal Centro,credito,9,707.12
+3645,Rebecca Gould,24,Masculino,En Linea,credito,4,96.98
+3837,Jose Morris,73,No binario,En Linea,credito,3,581.21
+9082,Miss Heidi Hill,80,No binario,En Linea,debito,7,360.41
+6591,Virginia Gibson,53,Masculino,En Linea,debito,8,454.16
+9720,Stephen Simmons,55,Masculino,En Linea,debito,7,290.62
+5898,Anthony Hernandez,42,Masculino,Sucursal Centro,efectivo,6,113.36
+1978,Beth Joyce,51,Femenino,En Linea,debito,9,312.64
+1308,Richard Williams,42,Masculino,En Linea,debito,3,87.03
+8112,Michael Brock,49,Masculino,En Linea,debito,7,502.48
+9928,Sean Dixon,59,Masculino,Sucursal Centro,efectivo,5,424.54
+9916,Katherine Green,54,Femenino,Sucursal Centro,efectivo,6,250.45
+2024,David Marsh,28,Masculino,En Linea,credito,2,164.43
+5028,Samantha Turner,39,Masculino,Sucursal Centro,credito,3,455.68
+3168,Shannon Miller MD,18,Masculino,Sucursal Centro,debito,4,46.32
+1827,Wesley Thomas,29,No binario,Sucursal Centro,debito,5,179.02
+5268,Nicholas Deleon,45,Femenino,En Linea,debito,10,276.97
+6971,Kenneth Jackson,32,Femenino,En Linea,debito,2,221.61
+9988,Lori Patel DDS,42,Masculino,En Linea,debito,6,320.6
+1928,Grant Ramirez,41,Masculino,En Linea,credito,5,270.46
+5395,Derek Freeman,21,Femenino,Sucursal Centro,efectivo,4,154.17
+1181,Dana Pearson,65,Masculino,En Linea,debito,4,112.64
+5356,Jamie Bowers,59,Femenino,Sucursal Centro,efectivo,4,380.62
+3709,Tamara Kirby,66,No binario,Sucursal Centro,efectivo,7,675.98
+4432,Jessica Williams,56,Masculino,Sucursal Centro,debito,3,187.59
+6150,John White,64,Masculino,Sucursal Centro,credito,6,131.98
+1932,Alexandria Burnett,66,Masculino,Sucursal Centro,credito,5,252.04
+4018,Stephanie Flores,56,No binario,Sucursal Centro,credito,7,373.12
+1563,Laura Lee,23,Masculino,Sucursal Centro,efectivo,7,375.6
+5323,Shane Snyder,74,Masculino,En Linea,debito,7,248.5
+9458,Angela Stephens,61,No binario,En Linea,debito,6,627.8
+8130,Brent Morrison,20,Masculino,Sucursal Centro,efectivo,1,182.76
+1853,Katherine Ramirez,44,No binario,En Linea,debito,3,236.38
+9177,Amber Barajas,47,Masculino,Sucursal Centro,debito,1,268.24
+8817,Kevin Green,71,Masculino,En Linea,credito,1,482.53
+3784,Arthur Turner,44,Masculino,Sucursal Centro,credito,6,253.54
+2269,Teresa Rasmussen,33,No binario,En Linea,credito,8,209.17
+8419,Christine Hunter,67,Masculino,En Linea,credito,3,89.84
+3742,Michelle Zamora,61,Masculino,En Linea,credito,2,166.93
+7918,Jose Medina,60,Masculino,En Linea,credito,1,359.4
+8155,Christine Wilson,55,Masculino,En Linea,credito,3,518.8
+1071,Robert Soto,37,No binario,En Linea,debito,1,256.88
+7905,James Carlson,76,No binario,Sucursal Centro,debito,6,703.4
+4056,Jeffrey Pierce,59,Femenino,En Linea,credito,9,545.27
+3173,James Ramos,23,Masculino,Sucursal Centro,debito,3,41.73
+3255,Tamara Martin,41,No binario,Sucursal Centro,credito,2,130.27
+6637,Jay Cruz,44,Masculino,Sucursal Centro,efectivo,2,361.07
+2695,Jonathan Haynes,68,Femenino,Sucursal Centro,efectivo,1,226.65
+2897,Matthew Adams,76,Masculino,En Linea,debito,10,514.27
+8167,James Jimenez,60,No binario,Sucursal Centro,credito,8,457.3
+2175,Ashlee Hill,63,Femenino,Sucursal Centro,credito,4,454.67
+3513,Mario Jimenez,58,No binario,En Linea,debito,3,478.68
+8869,Kevin Pena,77,Femenino,En Linea,debito,1,345.52
+5969,Kenneth Michael,80,No binario,Sucursal Centro,debito,8,159.81
+1702,Bradley Johnson,78,Femenino,Sucursal Centro,debito,6,238.88
+3565,Bradley Osborne,29,No binario,En Linea,credito,6,212.16
+3531,Edwin Torres,47,Masculino,En Linea,credito,7,107.32
+7165,Mr. Christopher Romero,71,Femenino,Sucursal Centro,debito,9,595.48
+8683,Jessica Cooper,79,Masculino,En Linea,debito,8,621.33
+6073,Elizabeth Sweeney,20,Masculino,Sucursal Centro,efectivo,2,117.68
+9708,Sean Wright,61,Masculino,Sucursal Centro,efectivo,10,256.61
+8187,Jack Brooks,63,No binario,En Linea,credito,3,360.22
+4492,Keith Moore,25,No binario,En Linea,credito,8,488.01
+4527,David Suarez,19,No binario,En Linea,debito,1,70.1
+3890,Danielle Parker,47,Femenino,En Linea,debito,6,373.79
+8579,Michael Zavala,21,Femenino,En Linea,debito,6,63.4
+9248,Mark Glover,58,No binario,En Linea,debito,4,113.69
+1286,Carolyn Richards,50,No binario,En Linea,debito,9,184.26
+5882,Adrienne Garrison,59,Femenino,En Linea,debito,5,548.96
+5396,Kimberly Evans,69,Masculino,En Linea,credito,1,264.46
+5824,Susan Sanchez,48,Masculino,Sucursal Centro,efectivo,4,70.93
+2018,Kevin Wade,69,Femenino,En Linea,debito,9,736.75
+6806,Erin Davidson,49,Masculino,En Linea,debito,1,426.84
+1464,Joshua Singh,62,Femenino,En Linea,credito,6,718.57
+8718,Anna Castro,23,Masculino,Sucursal Centro,credito,5,341.78
+1310,Dennis Snyder,71,Masculino,En Linea,debito,2,180.74
+9152,John Smith,57,Femenino,Sucursal Centro,debito,1,436.07
+5730,Mary Sheppard,43,Femenino,En Linea,debito,1,93.82
+4201,David Jones,44,Femenino,Sucursal Centro,debito,2,404.76
+7283,Tina Beard,43,Masculino,Sucursal Centro,debito,7,122.07
+7387,Taylor Ferrell,52,Masculino,En Linea,debito,5,85.81
+9482,John Macias,42,Masculino,En Linea,debito,3,153.78
+4750,Brian Williams,32,No binario,Sucursal Centro,debito,7,437.65
+9068,Bonnie Roberts,19,Masculino,Sucursal Centro,debito,10,219.55
+4765,Denise Miller,50,Masculino,En Linea,debito,7,157.21
+7536,Russell Watkins,42,Femenino,En Linea,debito,5,257.19
+9672,Audrey Rowe,57,Masculino,Sucursal Centro,credito,6,616.54
+9838,Jennifer Blake,50,Masculino,Sucursal Centro,credito,3,534.64
+3947,James Espinoza,66,No binario,En Linea,credito,4,295.94
+5177,Gina Miller,64,Masculino,En Linea,credito,3,571.31
+1476,Miguel Vega,46,No binario,En Linea,credito,4,97.04
+7267,Whitney Daniel,78,No binario,En Linea,credito,9,600.76
+8440,Pamela Simmons,71,No binario,En Linea,debito,6,394.77
+9488,Cynthia Gibson,51,Masculino,En Linea,debito,5,99.74
+9958,Kim Johnson,57,No binario,Sucursal Centro,debito,9,523.89
+7254,Robert Blake,28,Femenino,Sucursal Centro,debito,1,289.41
+4993,Todd Hernandez,41,Femenino,En Linea,debito,5,131.21
+6134,Terry Edwards,79,No binario,Sucursal Centro,debito,9,720.35
+1012,Dale Castillo,71,Femenino,En Linea,debito,9,521.12
+8265,Melissa Lopez,74,Masculino,En Linea,debito,7,723.22
+9263,Malik Mcneil,70,Masculino,Sucursal Centro,debito,9,570.88
+4151,Marie Torres,80,Masculino,Sucursal Centro,debito,5,425.69
+9468,Mrs. Alexis May,37,Masculino,Sucursal Centro,debito,5,61.08
+4316,Carol Mora,73,No binario,Sucursal Centro,debito,4,82.85
+4711,Alexander Romero,77,Femenino,Sucursal Centro,debito,7,746.42
+2916,David Ray,44,Masculino,Sucursal Centro,debito,1,121.87
+3686,Jacqueline Case,59,No binario,Sucursal Centro,debito,7,470.63
+3100,Tamara Weeks,30,Femenino,En Linea,debito,7,425.06
+8074,David Watson,39,No binario,En Linea,debito,4,111.57
+9638,Christopher Jacobs,48,No binario,En Linea,debito,3,245.72
+1262,Amy Krause,58,Femenino,Sucursal Centro,debito,8,519.18
+5744,Raven Hines,49,No binario,En Linea,debito,3,357.05
+5322,Brandon Knight,46,Masculino,Sucursal Centro,credito,1,152.96
+3924,Jared Williams,43,Masculino,En Linea,credito,10,342.54
+6251,Christopher Thornton,33,Masculino,Sucursal Centro,credito,9,436.76
+7057,Mrs. Lisa Christian,48,No binario,Sucursal Centro,credito,8,518.9
+2624,Shane Lang,31,Masculino,Sucursal Centro,credito,9,584.14
+8327,Julie Obrien,41,No binario,En Linea,credito,10,255.05
+9897,Katherine Wilson,38,Masculino,Sucursal Centro,credito,3,98.05
+5788,Jeff Goodwin,19,No binario,En Linea,credito,10,206.36
+3594,Laura Williams,62,Masculino,Sucursal Centro,credito,8,619.56
+5955,Chad Velasquez,21,Masculino,Sucursal Centro,credito,6,264.56
+1025,Richard Garcia,48,No binario,En Linea,credito,5,358.67
+2268,Daniel Parker,68,Masculino,Sucursal Centro,credito,10,358.76
+2248,Cynthia Gray,59,Masculino,En Linea,credito,2,197.52
+7781,Jason Johnson,49,Masculino,En Linea,credito,6,470.63
+7788,Christopher Greene,32,Femenino,Sucursal Centro,credito,3,453.38
+1724,Christian Watson,74,No binario,En Linea,credito,2,255.98
+9821,Hannah Golden,63,No binario,Sucursal Centro,credito,7,570.66
+5790,Adrian Martin,34,No binario,Sucursal Centro,credito,4,448.57
+6118,Kristen Shea,79,No binario,Sucursal Centro,credito,7,483.95
+2307,John Richardson,73,Masculino,En Linea,credito,2,174.68
+3715,Amber Jones,74,No binario,Sucursal Centro,credito,4,418.01
+7047,John Martinez,26,Masculino,En Linea,debito,4,240.32
+7092,Ronald Thompson,36,Femenino,En Linea,debito,9,599.86
+9926,Patrick Rice,44,Masculino,En Linea,debito,7,312.67
+1608,Heather Thompson,25,Femenino,En Linea,debito,9,71.15
+9109,Keith Riggs,65,Masculino,En Linea,debito,3,537.13
+1752,Hector Williams,46,Masculino,En Linea,debito,4,352.9
+6126,Mark Murphy,69,Femenino,Sucursal Centro,efectivo,3,143.32
+3659,Phillip Phillips,44,No binario,En Linea,debito,5,157.22
+5091,Sally Wood,34,No binario,Sucursal Centro,efectivo,6,88.42
+8502,Tina Johnson,47,Femenino,En Linea,debito,5,439.13
+6857,Robert Young,40,No binario,Sucursal Centro,credito,9,477.41
+9065,Jacob Brooks,46,No binario,Sucursal Centro,debito,1,110.08
+1206,Monica Frye,23,Masculino,Sucursal Centro,efectivo,8,408.0
+1169,Lisa Mitchell,18,Masculino,Sucursal Centro,efectivo,10,61.89
+5272,Eric Moore,39,Femenino,Sucursal Centro,efectivo,7,62.36
+8383,Susan Thomas,38,Masculino,Sucursal Centro,efectivo,7,510.38
+9815,Victoria Burton,80,Masculino,En Linea,debito,8,719.29
+4070,Leslie Gonzalez,55,Masculino,En Linea,credito,8,222.52
+2808,Joyce Vazquez,33,Masculino,Sucursal Centro,credito,1,395.63
+2660,Kara Gomez,52,Femenino,En Linea,debito,4,320.36
+4541,Stephanie Mason,20,Masculino,Sucursal Centro,debito,9,136.83
+9493,Holly Hernandez,47,No binario,En Linea,credito,7,653.76
+4543,Emily Foster,30,Masculino,En Linea,credito,10,451.52
+7573,Yolanda White,21,No binario,En Linea,efectivo,2,39.19
+5421,Michele Sloan,49,Masculino,En Linea,efectivo,3,188.71
+1263,Wayne Cooley,29,No binario,En Linea,debito,10,101.66
+7069,Jessica Whitaker,55,Femenino,En Linea,credito,8,493.8
+9424,Jon Stanley,21,Femenino,En Linea,debito,9,112.65
+1592,Lynn Watkins,34,Femenino,En Linea,credito,2,151.34
+5363,Ian Hardy,43,No binario,En Linea,debito,10,266.2
+4362,Michael Clark,21,Masculino,En Linea,debito,2,51.53
+1870,Ashley Johnson,71,Masculino,Sucursal Centro,efectivo,7,357.34
+6485,Mr. Charles Werner,58,Femenino,En Linea,debito,6,178.03
+8456,Monica Combs,70,No binario,En Linea,debito,5,103.32
+4731,Meghan Collins,57,Femenino,En Linea,credito,3,91.31
+7748,Nichole Tate,71,No binario,En Linea,credito,3,534.69
+6330,Carolyn Gardner,21,No binario,En Linea,credito,5,166.26
+3883,Cindy George,67,Femenino,En Linea,efectivo,6,695.33
+4747,Kimberly Ritter,22,Femenino,Sucursal Centro,efectivo,5,148.39
+4133,Robin James,20,No binario,En Linea,debito,9,206.15
+4824,Paul Campbell,60,Masculino,Sucursal Centro,credito,9,504.53
+5828,Jacqueline Sanchez,58,Femenino,En Linea,credito,10,91.84
+3333,David Barnes,72,Femenino,En Linea,credito,6,701.22
+2798,Kyle Gonzalez,79,No binario,En Linea,credito,4,672.5
+4793,James Cantrell,58,Masculino,En Linea,debito,5,439.59
+7678,Lisa Rodriguez,20,No binario,En Linea,debito,8,96.89
+2892,Victoria Kline,18,Masculino,Sucursal Centro,efectivo,2,118.52
+8135,Dr. Sarah Le,80,No binario,En Linea,debito,4,106.33
+1962,Terry Dawson,72,Femenino,En Linea,debito,10,217.08
+1829,Sydney Cobb,28,Femenino,Sucursal Centro,efectivo,2,254.82
+9483,Alexandra Bruce,66,Femenino,Sucursal Centro,efectivo,3,452.91
+2612,Daniel Macias,22,Femenino,En Linea,credito,8,59.16
+9013,Matthew Conley,20,Masculino,Sucursal Centro,credito,10,445.46
+8143,Mark Padilla,58,No binario,En Linea,credito,9,449.82
+7194,Virginia Blair,43,No binario,Sucursal Centro,debito,1,151.25
+7996,Lori Jones,52,No binario,En Linea,debito,10,441.61
+8344,Amber Davis,22,Femenino,En Linea,debito,8,254.86
+4568,Donald Fields,64,Femenino,En Linea,credito,5,412.98
+7795,Nicholas Greene,47,Masculino,Sucursal Centro,credito,10,624.02
+5007,Gerald Washington,44,Masculino,En Linea,credito,5,379.65
+4861,Steven Lewis,30,Masculino,Sucursal Centro,credito,4,268.07
+3789,Michael Duarte,27,No binario,En Linea,credito,5,180.33
+2047,Kimberly Berger,72,No binario,En Linea,debito,5,340.38
+6754,Jason Parrish,32,No binario,En Linea,debito,8,103.5
+2028,Glenn Roberts,46,Femenino,Sucursal Centro,debito,8,193.01
+7655,Isaiah Thomas,73,No binario,En Linea,debito,3,151.52
+1959,Keith Richards,56,Masculino,En Linea,debito,9,596.64
+6311,Eric Wallace,60,No binario,Sucursal Centro,debito,9,364.7
+1296,Amy Rich,46,No binario,Sucursal Centro,credito,9,541.03
+8793,Jeremy Sweeney,38,Femenino,Sucursal Centro,credito,5,427.24
+7929,Colleen Moon,20,No binario,En Linea,debito,6,182.72
+6717,Julie Wilson,76,Masculino,En Linea,debito,4,109.21
+9066,William Hogan,19,Masculino,En Linea,credito,3,49.66
+6937,Edward Meadows,68,Masculino,Sucursal Centro,credito,1,268.83
+4402,David Sanders,62,No binario,Sucursal Centro,credito,5,119.27
+4024,Samantha Hunt,61,No binario,Sucursal Centro,efectivo,9,165.31
+6063,Emily Caldwell,69,Femenino,Sucursal Centro,efectivo,7,418.06
+1138,Mary Smith,33,Masculino,En Linea,debito,9,463.36
+5669,Mr. Benjamin Lopez,67,Masculino,En Linea,debito,1,461.57
+1131,Nicole Lucas,76,Masculino,En Linea,debito,7,180.42
+4071,James Moses,20,Femenino,Sucursal Centro,credito,2,198.86
+4066,Tamara Jones,34,Femenino,En Linea,credito,3,322.21
+4674,Michael Obrien,27,No binario,Sucursal Centro,credito,8,366.93
+4712,Karen Nelson,39,Femenino,Sucursal Centro,debito,7,134.79
+3324,Susan Williams,42,Femenino,En Linea,debito,9,479.77
+5441,Joe Morgan,58,Masculino,En Linea,debito,10,219.23
+1340,Madison Hart,51,No binario,En Linea,debito,9,315.97
+3756,Phillip Miller,68,Masculino,En Linea,debito,2,432.61
+4513,Shannon Spence,52,No binario,En Linea,debito,6,554.43
+4929,Scott Ryan,39,Femenino,En Linea,debito,6,377.73
+6335,Dawn Ramirez,23,Femenino,Sucursal Centro,efectivo,2,289.84
+2760,Eric Black,25,Femenino,En Linea,debito,5,365.76
+8866,Carla Spencer,72,No binario,Sucursal Centro,efectivo,8,560.12
+3850,Dana Hart,48,No binario,En Linea,debito,9,659.85
+8876,Michael Hicks,33,Masculino,En Linea,debito,8,560.1
+7287,Robert Navarro,28,Masculino,En Linea,efectivo,7,270.72
+5804,Eileen Robertson,44,Masculino,En Linea,debito,8,495.93
+2855,Aaron Acosta,34,Masculino,Sucursal Centro,credito,7,280.46
+7272,John Reyes,30,No binario,Sucursal Centro,efectivo,1,260.2
+3894,Marcus Cross,76,No binario,Sucursal Centro,efectivo,9,453.79
+9567,Bruce Ryan,61,Femenino,Sucursal Centro,efectivo,5,370.87
+7513,Edward Martin,34,Masculino,Sucursal Centro,efectivo,3,342.54
+5416,Shannon Watts,53,No binario,Sucursal Centro,efectivo,6,189.67
+6004,David Horn,36,Masculino,En Linea,debito,2,166.42
+2878,Christine Brown,36,No binario,En Linea,debito,5,52.93
+4862,Brad Green,39,No binario,En Linea,credito,2,142.18
+8250,Crystal Rice,61,Masculino,En Linea,credito,1,140.76
+2941,Jennifer Joyce,49,No binario,En Linea,credito,1,357.61
+8230,Melissa Alvarez,58,Masculino,En Linea,credito,10,726.22
+3485,Molly Scott,44,Femenino,Sucursal Centro,credito,1,362.83
+9278,Thomas Morrison,33,Femenino,En Linea,credito,5,430.45
+8965,Anna Cooper,24,Masculino,Sucursal Centro,credito,8,388.85
+3656,Brad Davis,61,No binario,Sucursal Centro,credito,1,176.1
+5835,Michael Hughes,61,Masculino,Sucursal Centro,credito,6,680.94
+7074,Evan Melendez,63,Femenino,Sucursal Centro,efectivo,10,686.45
+2517,William Willis,56,Femenino,En Linea,efectivo,10,635.88
+3612,Joshua Lynch,56,Femenino,En Linea,efectivo,4,139.07
+1336,Jeremy Silva,38,Masculino,En Linea,efectivo,5,316.6
+2742,Paul White,80,Femenino,En Linea,debito,3,287.6
+6817,Jennifer Whitehead,37,Femenino,En Linea,debito,8,446.09
+6652,Natalie Day,54,Masculino,Sucursal Centro,debito,2,236.25
+1463,Bradley Smith,58,Femenino,En Linea,debito,6,149.73
+4682,Theodore Cruz,39,Femenino,En Linea,debito,8,382.55
+7205,Donna Turner,74,Masculino,En Linea,credito,3,627.57
+1652,Brian Townsend,38,Masculino,Sucursal Centro,credito,7,412.34
+7686,April Kelly,70,No binario,Sucursal Centro,credito,6,496.82
+3339,Angela Williams,68,Femenino,Sucursal Centro,credito,4,183.19
+9404,Karen Downs,37,Femenino,En Linea,credito,8,505.98
+3868,Johnny Ross,28,Masculino,En Linea,credito,6,432.2
+7351,Joshua Rose,71,Femenino,En Linea,debito,4,244.45
+8067,Amanda Burgess,30,Femenino,Sucursal Centro,efectivo,2,219.31
+5468,Daniel Floyd,22,Femenino,En Linea,debito,6,368.91
+6864,Joseph Reynolds,23,No binario,En Linea,debito,4,303.49
+5624,Gregory Delgado,30,Femenino,En Linea,credito,5,395.38
+1158,Terry Barajas,40,Femenino,En Linea,credito,6,495.32
+7407,Brandon Lee DDS,52,No binario,Sucursal Centro,efectivo,6,65.65
+4014,Bruce Terrell,78,Femenino,Sucursal Centro,efectivo,3,581.11
+7735,Shelly Thompson,79,Masculino,Sucursal Centro,efectivo,7,181.0
+3631,Jacqueline Sparks,36,Femenino,En Linea,credito,8,611.84
+9039,Diane Patrick,45,Femenino,Sucursal Centro,credito,3,135.91
+9015,Cameron Anderson,27,Masculino,En Linea,debito,7,462.63
+4692,Kayla Kelley,40,No binario,En Linea,debito,3,244.21
+1269,Eric Madden,59,Femenino,En Linea,credito,1,109.02
+7860,Alicia Kramer,28,Femenino,En Linea,debito,8,324.31
+5516,Kenneth Clements,46,Femenino,Sucursal Centro,debito,6,172.61
+4459,Jennifer Harrington,61,Masculino,Sucursal Centro,debito,5,366.49
+3804,Richard Higgins,54,No binario,En Linea,debito,3,235.05
+8501,Christina Rodriguez,52,Masculino,En Linea,debito,2,423.01
+8974,Melissa King,59,No binario,Sucursal Centro,debito,6,459.58
+3159,Michael Callahan,19,Femenino,Sucursal Centro,credito,1,309.77
+3266,Teresa Walsh,79,No binario,En Linea,credito,10,219.94
+8733,Victoria Hoover,74,Masculino,Sucursal Centro,efectivo,9,101.42
+6915,Mary Riley,65,Femenino,Sucursal Centro,efectivo,6,317.3
+7447,Natalie Fleming,18,No binario,En Linea,debito,2,320.86
+6241,Kenneth Stewart,52,Femenino,En Linea,debito,4,516.83
+4341,Cassandra Cannon,40,No binario,En Linea,debito,2,265.95
+8633,Joseph Johnson,18,Femenino,En Linea,credito,9,495.26
+8554,Mary Martinez,34,Femenino,Sucursal Centro,credito,2,295.95
+5545,Vanessa Reynolds,69,Femenino,En Linea,credito,8,846.78
+1094,Felicia Clark,74,Femenino,Sucursal Centro,credito,1,130.11
+5866,Larry Perez,55,Masculino,En Linea,debito,2,506.11
+8026,Robert Wright PhD,56,Femenino,En Linea,debito,8,117.39
+9775,Nathan Miranda,59,No binario,En Linea,credito,1,211.92
+1911,Michelle Carlson,52,Masculino,En Linea,credito,3,152.13
